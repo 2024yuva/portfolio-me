@@ -2,19 +2,18 @@
   "name": "yuvarrunjithars-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://2024yuva.github.io/portfolio-me",
+  "homepage": "https://github.com/2024yuva/portfolio-me",
   "engines": {
-    "node": "22.x"
+    "node": ">=18 <=22"
   },
   "scripts": {
     "dev": "vite",
     "build": "npx vite build",
+    "predeploy": "npm run build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "18": "^0.0.0",
-    "22": "^0.0.0",
     "framer-motion": "^10.12.16",
     "lucide-react": "^0.546.0",
     "react": "^18.2.0",
