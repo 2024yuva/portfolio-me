@@ -146,8 +146,8 @@ Building this portfolio taught me:
 
 ## 📬 Connect With Me
 
-- **GitHub**: [github.com/yourusername](https://github.com/2024yuva)
-- **LinkedIn**: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yuvarrunjitha-r-s-05979a302/))
+- **GitHub**: [github.com/2024yuva](https://github.com/2024yuva)
+- **LinkedIn**: [linkedin.com/in/yuvarrunjitha-r-s-0597a302]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yuvarrunjitha-r-s-05979a302/))
 - **Email**: yuvarrunjithars@gmail.com
 
 ## 🙏 Acknowledgments
