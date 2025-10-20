@@ -2,16 +2,16 @@
   "name": "yuvarrunjithars-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/2024yuva/portfolio-me",
+  "homepage": "https://2024yuva.github.io/portfolio-me",
   "engines": {
-    "node": ">=18 <=22"
+    "node": "22.x"
   },
   "scripts": {
     "dev": "vite",
     "build": "npx vite build",
     "predeploy": "npm run build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "vite build && gh-pages -d dist --no-verify"
   },
   "dependencies": {
     "framer-motion": "^10.12.16",
