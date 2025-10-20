@@ -1,5 +1,7 @@
 # 🌟 Yuvarrunjitha R S - Portfolio Website
 
+Visit my deployed portfolio -> https://myportfolio-eresgx14i-yuvarrunjitha-r-ss-projects.vercel.app/
+
 > *"Debugging my code and my life simultaneously—both are a work in progress and that's okay 🫶"*
 
 A personal portfolio showcasing my journey as a student developer, AI enthusiast, and creative builder.
