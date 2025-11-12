@@ -17,13 +17,13 @@ export default function Home() {
         {/* Skill Tags - Three in a row */}
         <div className="flex justify-center gap-4 mb-10 flex-wrap">
           <span className="px-5 py-2 bg-[#E8D5FF] text-[#6B4B99] rounded-full text-sm font-medium flex items-center gap-2">
-            <span className="text-base">💻</span> Engineering
+            <span className="text-base">Engineering</span> 
           </span>
           <span className="px-5 py-2 bg-[#FFD5E5] text-[#B85678] rounded-full text-sm font-medium flex items-center gap-2">
-            <span className="text-base">🎙️</span> AI-ML
+            <span className="text-base">AI-ML</span>
           </span>
           <span className="px-5 py-2 bg-[#D5F0FF] text-[#5694B8] rounded-full text-sm font-medium flex items-center gap-2">
-            <span className="text-base">✨</span> Vibe Coding
+            <span className="text-base">Exploring</span> 
           </span>
         </div>
 
